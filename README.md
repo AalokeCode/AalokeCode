@@ -1,4 +1,4 @@
-<img src="https://aaloke.com/img/Aaloke%20Logo.png" align="center"/>
+<img src="https://aaloke.com/img/Aaloke%20Logo.png" align="center" width="100px"/>
 
 ### Hello Everyone!
 I am Aaloke Eppalapalli. I am a programming and design enthusiast!
@@ -8,6 +8,3 @@ I am Aaloke Eppalapalli. I am a programming and design enthusiast!
 - 🔭 Exploring and Building a YouTube channel
 - 🛠️ Python, HTML, JS, CSS, Tailwind, Svelte and NextJS
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AalokeCode)]
