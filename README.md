@@ -1,4 +1,5 @@
-<img src="https://aaloke.com/img/Aaloke%20Logo.png" align="center">
+<img src="https://aaloke.com/img/Aaloke%20Logo.png" align="center"/>
+
 ### Hello Everyone!
 I am Aaloke Eppalapalli. I am a programming and design enthusiast!
 
